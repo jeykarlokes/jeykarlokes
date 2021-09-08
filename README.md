@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with c++,Java
 - 💬 Ask me about Core python, Machine Learning, Computer vision, Algorthims, CN,OS.
 
-- ![](https://komarev.com/ghpvc/?username=jeykarlokes&label=PROFILE+VIEWS)
+- ![](https://komarev.com/ghpvc/?username=jeykarlokes&color=brightgreen&label=PROFILE+VIEWS)
 
