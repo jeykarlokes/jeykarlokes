@@ -1,6 +1,7 @@
-### Hi there 👋
+# Hola there 👋, 
 
-Hola, welcome, Thanks for the viewing this page,
+## Welcome,
+### Thanks for the viewing this page,
 
 I'm Lokesh. Working as a Software Engineer
 
